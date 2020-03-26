@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/store-crowd-covid/static/css/main.5f361e03.chunk.css",
+    "main.js": "/store-crowd-covid/static/js/main.170deea6.chunk.js",
+    "main.js.map": "/store-crowd-covid/static/js/main.170deea6.chunk.js.map",
+    "runtime-main.js": "/store-crowd-covid/static/js/runtime-main.1765905d.js",
+    "runtime-main.js.map": "/store-crowd-covid/static/js/runtime-main.1765905d.js.map",
+    "static/js/2.4636d54b.chunk.js": "/store-crowd-covid/static/js/2.4636d54b.chunk.js",
+    "static/js/2.4636d54b.chunk.js.map": "/store-crowd-covid/static/js/2.4636d54b.chunk.js.map",
+    "index.html": "/store-crowd-covid/index.html",
+    "precache-manifest.a6258381be23e2a4db37e1f4d4ac8f93.js": "/store-crowd-covid/precache-manifest.a6258381be23e2a4db37e1f4d4ac8f93.js",
+    "service-worker.js": "/store-crowd-covid/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/store-crowd-covid/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4636d54b.chunk.js.LICENSE.txt": "/store-crowd-covid/static/js/2.4636d54b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/store-crowd-covid/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1765905d.js",
+    "static/js/2.4636d54b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.170deea6.chunk.js"
+  ]
+}
